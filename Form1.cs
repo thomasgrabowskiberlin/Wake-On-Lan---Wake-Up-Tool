@@ -46,7 +46,6 @@ namespace WakeOnLanTool
             string stAdr;
             try
             {
-                //stAdr = textBox1.Text.ToString().Replace( ":", string.Empty );
                 stAdr = comboBox1.GetItemText(comboBox1.Items[comboBox1.SelectedIndex]).ToString().Replace(":", string.Empty);
                 mac = PhysicalAddress.Parse(stAdr);
                 NIC = mac.GetAddressBytes();
@@ -60,9 +59,7 @@ namespace WakeOnLanTool
             {
 
             }
-
-            //   for (int i = 0; i < 6; i++)
-            //     Console.WriteLine(NIC[i]);
+             
             WOL.setBroadCastIP("192.168.137.255");
             WOL.setNIC(NIC);
             WOL.SendMagicBytes();
@@ -144,8 +141,6 @@ namespace WakeOnLanTool
         {
             ChildForm.setRefMacs(ref Macs,ref comboBox1);
             ChildForm.Show();
-
-
         }
     }
 }
