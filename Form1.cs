@@ -19,7 +19,7 @@ namespace WakeOnLanTool
     {
         private OpenFileDialog openFileDialog;
         private SaveFileDialog saveFileDialog;
-        public Form2 ChildForm; 
+        public Form2 ChildForm;
         private WakeOnLan WOL;
         byte[] NIC = { 0xD8, 0xBB, 0xC1, 0x0C, 0x11, 0xDC }; // GamingPC D8:BB:C1:0C:11:DC
         //byte[] NIC = { 0x00, 0x1F, 0x16, 0x15, 0x7C, 0x68 }; // X200s 00:1F:16:15:7C:68
@@ -59,8 +59,8 @@ namespace WakeOnLanTool
             {
 
             }
-             
-            WOL.setBroadCastIP("192.168.137.255");
+
+            WOL.setBroadCastIP("255.255.255.255");
             WOL.setNIC(NIC);
             WOL.SendMagicBytes();
         }
@@ -139,7 +139,7 @@ namespace WakeOnLanTool
 
         private void addNewItemToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            ChildForm.setRefMacs(ref Macs,ref comboBox1);
+            ChildForm.setRefMacs(ref Macs, ref comboBox1);
             ChildForm.Show();
         }
     }
