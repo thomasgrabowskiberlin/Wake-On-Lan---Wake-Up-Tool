@@ -1,0 +1,16 @@
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\WakeOnLanTool.exe.config
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\WakeOnLanTool.exe
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\WakeOnLanTool.pdb
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\WakeOnLanLibrary.pdb
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\WakeOnLanLibrary.dll.config
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.Form1.resources
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.Form2.resources
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.Properties.Resources.resources
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.csproj.CopyComplete
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.exe
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\obj\Debug\WakeOnLanTool.pdb
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\bin\Debug\WakeOnLanLibrary.dll

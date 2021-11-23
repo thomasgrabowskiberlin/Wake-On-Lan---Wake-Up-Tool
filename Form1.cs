@@ -24,6 +24,7 @@ namespace WakeOnLanTool
         byte[] NIC = { 0xD8, 0xBB, 0xC1, 0x0C, 0x11, 0xDC }; // GamingPC D8:BB:C1:0C:11:DC
         //byte[] NIC = { 0x00, 0x1F, 0x16, 0x15, 0x7C, 0x68 }; // X200s 00:1F:16:15:7C:68
         private List<String> Macs;
+        private string _lokalIP; 
 
         public Form1()
         {
@@ -38,6 +39,8 @@ namespace WakeOnLanTool
             foreach (var item in Macs)
                 comboBox1.Items.Add(item);
             comboBox1.SelectedIndex = 0;
+            _lokalIP = WOL.GetLocalIPAddress();
+            label1.Text = _lokalIP;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -55,12 +58,8 @@ namespace WakeOnLanTool
                 MessageBox.Show("MAC address format error");
                 return;
             }
-            finally
-            {
-
-            }
-
-            WOL.setBroadCastIP("255.255.255.255");
+            
+            WOL.setBroadCastIP("192.168.137.255");
             WOL.setNIC(NIC);
             WOL.SendMagicBytes();
         }

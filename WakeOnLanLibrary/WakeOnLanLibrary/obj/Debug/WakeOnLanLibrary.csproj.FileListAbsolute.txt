@@ -7,3 +7,12 @@ C:\Users\Thomas\Desktop\compiles\Csharp_Training\DLL_creation\WakeOnLanLibrary\W
 C:\Users\Thomas\Desktop\compiles\Csharp_Training\DLL_creation\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\Desktop\compiles\Csharp_Training\DLL_creation\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.dll
 C:\Users\Thomas\Desktop\compiles\Csharp_Training\DLL_creation\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.pdb
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\bin\Debug\WakeOnLanLibrary.dll.config
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\bin\Debug\WakeOnLanLibrary.dll
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\bin\Debug\WakeOnLanLibrary.pdb
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.Properties.Resources.resources
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.dll
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.pdb
+C:\Users\Thomas\Desktop\github\Wake-On-Lan---Wake-Up-Tool\WakeOnLanLibrary\WakeOnLanLibrary\obj\Debug\WakeOnLanLibrary.csproj.AssemblyReference.cache
